@@ -40,7 +40,9 @@ You can view all implementations on [VerbalExpressions.github.io](http://VerbalE
 1. [Jim Hollenhorst - The 30 Minute Regex Tutorial](http://www.codeproject.com/Articles/9099/The-30-Minute-Regex-Tutorial) 
 1. [VerbalExpressions.github.io](http://VerbalExpressions.github.io)  
 1. [Peder Søholt](https://github.com/VerbalExpressions/CSharpVerbalExpressions) 
+1. [Karl Prosser for writing Invoke-Ternary filter](http://karlprosser.com/coder/)  
 1. [Doug Finke](http://dougfinke.com/blog/)  
   - [For tweeting about Verbal expressions](https://twitter.com/dfinke/statuses/368724976032964609)
   - [For writing about DSLs in his book](http://shop.oreilly.com/product/0636920024491.do) 
+
   
